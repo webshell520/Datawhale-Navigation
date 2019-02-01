@@ -25,49 +25,49 @@ Datawhale
 │&emsp;&emsp;│&emsp;&emsp;&emsp;&emsp;&emsp;└── [Paper解读与复现](添加对应仓库链接)<br>
 │&emsp;&emsp;└── 深度学习<br>
 │&emsp;&emsp;│&emsp;&emsp;└── 课程与书籍学习<br>
-│&emsp;&emsp;│&emsp;&emsp;│&emsp;&emsp;├── [圣经花书《深度学习》学习项目](添加对应仓库链接)               
-│&emsp;&emsp;│&emsp;&emsp;│&emsp;&emsp;├── [斯坦福深度学习项目](添加对应仓库链接)     
-│&emsp;&emsp;│&emsp;&emsp;│&emsp;&emsp;├── [斯坦福深度学习项目](添加对应仓库链接)     
+│&emsp;&emsp;│&emsp;&emsp;│&emsp;&emsp;└──  [圣经花书《深度学习》学习项目](添加对应仓库链接)               
+│&emsp;&emsp;│&emsp;&emsp;│&emsp;&emsp;└──  [斯坦福深度学习项目](添加对应仓库链接)     
+│&emsp;&emsp;│&emsp;&emsp;│&emsp;&emsp;└──  [斯坦福深度学习项目](添加对应仓库链接)     
 │&emsp;&emsp;│&emsp;&emsp;│&emsp;&emsp;└── [斯坦福深度学习项目](添加对应仓库链接) <br>
 │&emsp;&emsp;│&emsp;&emsp;└── 前沿论文解读与复现<br>
 │&emsp;&emsp;│&emsp;&emsp;&emsp;&emsp;&emsp;└── [Paper解读与复现](添加对应仓库链接)<br>
 │&emsp;&emsp;└── 强化学习<br>
 │&emsp;&emsp;│&emsp;&emsp;└── 课程与书籍学习<br>
-│&emsp;&emsp;│&emsp;&emsp;│&emsp;&emsp;├── [伦敦大学 David Sliver《强化学习公开课》学习项目](添加对应仓库链接)    
-│&emsp;&emsp;│&emsp;&emsp;│&emsp;&emsp;├── [伯克利CS294《深度强化学习公开课》学习项目](添加对应仓库链接)<br>
+│&emsp;&emsp;│&emsp;&emsp;│&emsp;&emsp;└──  [伦敦大学 David Sliver《强化学习公开课》学习项目](添加对应仓库链接)    
+│&emsp;&emsp;│&emsp;&emsp;│&emsp;&emsp;└──  [伯克利CS294《深度强化学习公开课》学习项目](添加对应仓库链接)<br>
 │&emsp;&emsp;│&emsp;&emsp;│&emsp;&emsp;└── [DeepMind《深度强化学习公开课》学习项目](添加对应仓库链接)<br>
 │&emsp;&emsp;│&emsp;&emsp;└── 前沿论文解读与复现<br>
 │&emsp;&emsp;│&emsp;&emsp;&emsp;&emsp;&emsp;└── [Paper解读与复现](添加对应仓库链接)<br>
 │&emsp;&emsp;└── 计算机视觉<br>
 │&emsp;&emsp;│&emsp;&emsp;└── 课程与书籍学习<br>
-│&emsp;&emsp;│&emsp;&emsp;│&emsp;&emsp;├── [***](添加对应仓库链接)    
-│&emsp;&emsp;│&emsp;&emsp;│&emsp;&emsp;├── [***](添加对应仓库链接) <br>
+│&emsp;&emsp;│&emsp;&emsp;│&emsp;&emsp;└──  [***](添加对应仓库链接)    
+│&emsp;&emsp;│&emsp;&emsp;│&emsp;&emsp;└──  [***](添加对应仓库链接) <br>
 │&emsp;&emsp;│&emsp;&emsp;│&emsp;&emsp;└── [***](添加对应仓库链接) <br>
 │&emsp;&emsp;│&emsp;&emsp;└── 前沿论文解读与复现<br>
 │&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;└── [Paper解读与复现](添加对应仓库链接)<br>
 │&emsp;&emsp;└── 自然语言处理与应用<br>
 │&emsp;&emsp;│&emsp;&emsp;└── 课程与书籍学习<br>
-│&emsp;&emsp;│&emsp;&emsp;│&emsp;&emsp;├── [***](添加对应仓库链接)    
-│&emsp;&emsp;│&emsp;&emsp;│&emsp;&emsp;├── [***](添加对应仓库链接) <br>
+│&emsp;&emsp;│&emsp;&emsp;│&emsp;&emsp;└──  [***](添加对应仓库链接)    
 │&emsp;&emsp;│&emsp;&emsp;│&emsp;&emsp;└── [***](添加对应仓库链接) <br>
+│&emsp;&emsp;│&emsp;&emsp;│&emsp;&emsp;└──  [***](添加对应仓库链接) <br>
 │&emsp;&emsp;│&emsp;&emsp;└── 前沿论文解读与复现<br>
 │&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;└── [Paper解读与复现](添加对应仓库链接)<br>
 └── **项目与竞赛** <br>
 │&emsp;&emsp;└── Kaggle竞赛<br>
-│&emsp;&emsp;│&emsp;&emsp;├── [泰坦尼克号数据竞赛](添加对应仓库链接)              
-│&emsp;&emsp;│&emsp;&emsp;├── [***](添加对应仓库链接)    
-│&emsp;&emsp;│&emsp;&emsp;├── [***](添加对应仓库链接)    
+│&emsp;&emsp;│&emsp;&emsp;└── [泰坦尼克号数据竞赛](添加对应仓库链接)              
+│&emsp;&emsp;│&emsp;&emsp;└── [***](添加对应仓库链接)    
+│&emsp;&emsp;│&emsp;&emsp;└──  [***](添加对应仓库链接)    
 │&emsp;&emsp;│&emsp;&emsp;└── [***](添加对应仓库链接)<br>
 │&emsp;&emsp;└── 天池竞赛<br>
-│&emsp;&emsp;│&emsp;&emsp;├── [天池电力预测竞赛](添加对应仓库链接)              
-│&emsp;&emsp;│&emsp;&emsp;├── [***](添加对应仓库链接)    
-│&emsp;&emsp;│&emsp;&emsp;├── [***](添加对应仓库链接)    
-│&emsp;&emsp;│&emsp;&emsp;└── [***](添加对应仓库链接)<br>
+│&emsp;&emsp;│&emsp;&emsp;└──  [天池电力预测竞赛](添加对应仓库链接)              
+│&emsp;&emsp;│&emsp;&emsp;└──  [***](添加对应仓库链接)    
+│&emsp;&emsp;│&emsp;&emsp;└──  [***](添加对应仓库链接)    
+│&emsp;&emsp;│&emsp;&emsp;└──  [***](添加对应仓库链接)<br>
 │&emsp;&emsp;└── 企业级数据项目实践<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;├── [中国地震数预测项目实践](添加对应仓库链接)              
-&emsp;&emsp;&emsp;&emsp;&emsp;├── [***](添加对应仓库链接)    
-&emsp;&emsp;&emsp;&emsp;&emsp;├── [***](添加对应仓库链接)    
-&emsp;&emsp;&emsp;&emsp;&emsp;└── [***](添加对应仓库链接)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;└──  [中国地震数预测项目实践](添加对应仓库链接)              
+&emsp;&emsp;&emsp;&emsp;&emsp;└──  [***](添加对应仓库链接)    
+&emsp;&emsp;&emsp;&emsp;&emsp;└──  [***](添加对应仓库链接)    
+&emsp;&emsp;&emsp;&emsp;&emsp;└──  [***](添加对应仓库链接)<br>
 
 
 以上为整体汇总，请使用者创建Github仓库，并将仓库内容和链接完善在本导航页面
