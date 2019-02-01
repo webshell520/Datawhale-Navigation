@@ -17,9 +17,9 @@ Datawhale
 └── **经典学习项目** <br>
 │&emsp;&emsp;└── 机器学习<br>
 │&emsp;&emsp;│&emsp;&emsp;└── 课程与书籍学习<br>
-│&emsp;&emsp;│&emsp;&emsp;│&emsp;&emsp;├── [吴恩达《机器学习》学习项目](添加对应仓库链接)              
-│&emsp;&emsp;│&emsp;&emsp;│&emsp;&emsp;├── [李宏毅《机器学习》学习项目](添加对应仓库链接)    
-│&emsp;&emsp;│&emsp;&emsp;│&emsp;&emsp;├── [周志华《西瓜书》学习项目](添加对应仓库链接)     
+│&emsp;&emsp;│&emsp;&emsp;│&emsp;&emsp;└── [吴恩达《机器学习》学习项目](添加对应仓库链接)              
+│&emsp;&emsp;│&emsp;&emsp;│&emsp;&emsp;└── [李宏毅《机器学习》学习项目](添加对应仓库链接)    
+│&emsp;&emsp;│&emsp;&emsp;│&emsp;&emsp;└── [周志华《西瓜书》学习项目](添加对应仓库链接)     
 │&emsp;&emsp;│&emsp;&emsp;│&emsp;&emsp;└── [CS【***】公开课学习项目](添加对应仓库链接)<br>
 │&emsp;&emsp;│&emsp;&emsp;└── 前沿论文解读与复现<br>
 │&emsp;&emsp;│&emsp;&emsp;&emsp;&emsp;&emsp;└── [Paper解读与复现](添加对应仓库链接)<br>
