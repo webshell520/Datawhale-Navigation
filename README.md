@@ -12,8 +12,20 @@
 ### Datawhale-Navigation
 Datawhale导航灯塔是Datawhale开源社区在GitHub下导航对应仓库的一个导航助手，主要为Datawhale主导的项目提供一个访问链接，方便与每一位学习者快速找到对应项目的资料与相关信息。
 
+### **Datawhale学习路线总结**     
+└── **人工智能学习路线** <br>
+│&emsp;&emsp;└── [机器学习算法工程师路线](添加对应仓库链接) <br>
+│&emsp;&emsp;└── [计算机视觉工程师路线](添加对应仓库链接) <br>
+│&emsp;&emsp;└── [自然语言处理工程师路线](添加对应仓库链接) <br>
+│&emsp;&emsp;└── [机器人工程师路线](添加对应仓库链接) <br>
+│&emsp;&emsp;└── [数据分析师路线](添加对应仓库链接) <br>
+└── **计算机基础学习路线** <br>
+&emsp;&emsp;&emsp;└── [ACM 进阶路线](添加对应仓库链接) <br>
+&emsp;&emsp;&emsp;└── [公司面试路线](添加对应仓库链接) <br>
 
-Datawhale      
+
+
+### **Datawhale学习项目总结**     
 └── **经典课程学习与前沿探索项目** <br>
 │&emsp;&emsp;└── 基础学习课程<br>
 │&emsp;&emsp;│&emsp;&emsp;└── 课程与书籍学习<br>
@@ -65,29 +77,46 @@ Datawhale
 │&emsp;&emsp;&emsp;&emsp;└── 前沿论文解读与复现<br>
 │&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;└── [Paper解读与复现](添加对应仓库链接)<br>
 └── **竞赛及企业数据分析项目** <br>
-&emsp;&emsp;&emsp;└── Kaggle竞赛<br>
-&emsp;&emsp;&emsp;│&emsp;&emsp;└── [泰坦尼克号数据竞赛](添加对应仓库链接)              
-&emsp;&emsp;&emsp;│&emsp;&emsp;└── [***](添加对应仓库链接)    
-&emsp;&emsp;&emsp;│&emsp;&emsp;└──  [***](添加对应仓库链接)    
-&emsp;&emsp;&emsp;│&emsp;&emsp;└── [***](添加对应仓库链接)<br>
-&emsp;&emsp;&emsp;└── 天池竞赛<br>
-&emsp;&emsp;&emsp;│&emsp;&emsp;└──  [天池电力预测竞赛](添加对应仓库链接)              
-&emsp;&emsp;&emsp;│&emsp;&emsp;└──  [***](添加对应仓库链接)    
-&emsp;&emsp;&emsp;│&emsp;&emsp;└──  [***](添加对应仓库链接)    
-&emsp;&emsp;&emsp;│&emsp;&emsp;└──  [***](添加对应仓库链接)<br>
-&emsp;&emsp;&emsp;└── 企业级数据项目实践<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;└──  [中国地震数预测项目实践](添加对应仓库链接)              
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;└──  [***](添加对应仓库链接)    
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;└──  [***](添加对应仓库链接)    
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;└──  [***](添加对应仓库链接)<br>
+│&emsp;&emsp;&emsp;└── Kaggle竞赛<br>
+│&emsp;&emsp;&emsp;│&emsp;&emsp;└── [泰坦尼克号数据竞赛](添加对应仓库链接)              
+│&emsp;&emsp;&emsp;│&emsp;&emsp;└── [***](添加对应仓库链接)    
+│&emsp;&emsp;&emsp;│&emsp;&emsp;└──  [***](添加对应仓库链接)    
+│&emsp;&emsp;&emsp;│&emsp;&emsp;└── [***](添加对应仓库链接)<br>
+│&emsp;&emsp;&emsp;└── 天池竞赛<br>
+│&emsp;&emsp;&emsp;│&emsp;&emsp;└──  [天池电力预测竞赛](添加对应仓库链接)              
+│&emsp;&emsp;&emsp;│&emsp;&emsp;└──  [***](添加对应仓库链接)    
+│&emsp;&emsp;&emsp;│&emsp;&emsp;└──  [***](添加对应仓库链接)<br>
+│&emsp;&emsp;&emsp;└── 企业级数据项目实践<br>
+│&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;└──  [中国地震数预测项目实践](添加对应仓库链接)              
+│&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;└──  [***](添加对应仓库链接)    
+│&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;└──  [***](添加对应仓库链接)    
+│&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;└──  [***](添加对应仓库链接)<br>
+└── **计算机基础学习** <br>
+│&emsp;&emsp;&emsp;└── 数据结构与算法<br>
+│&emsp;&emsp;&emsp;│&emsp;&emsp;└── [算法设计](添加对应仓库链接)              
+│&emsp;&emsp;&emsp;│&emsp;&emsp;└── [数据结构](添加对应仓库链接)    
+│&emsp;&emsp;&emsp;│&emsp;&emsp;└── [面试题](添加对应仓库链接)    
+│&emsp;&emsp;&emsp;│&emsp;&emsp;└── [***](添加对应仓库链接)<br>
+│&emsp;&emsp;&emsp;└── 计算机网络<br>
+│&emsp;&emsp;&emsp;│&emsp;&emsp;└──  [计算机网络](添加对应仓库链接)              
+│&emsp;&emsp;&emsp;│&emsp;&emsp;└──  [面试题](添加对应仓库链接)    
+│&emsp;&emsp;&emsp;│&emsp;&emsp;└──  [***](添加对应仓库链接)<br>
+│&emsp;&emsp;&emsp;└── 操作系统<br>
+│&emsp;&emsp;&emsp;│&emsp;&emsp;└──  [操作系统](添加对应仓库链接)              
+│&emsp;&emsp;&emsp;│&emsp;&emsp;└──  [面试题](添加对应仓库链接)    
+│&emsp;&emsp;&emsp;│&emsp;&emsp;└──  [***](添加对应仓库链接)<br>
+│&emsp;&emsp;&emsp;└── 计算机组成原理<br>
+│&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;└──  [计算机组成原理](添加对应仓库链接)              
+│&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;└──  [***](添加对应仓库链接)    
+│&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;└──  [***](添加对应仓库链接)    
+│&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;└──  [***](添加对应仓库链接)<br>
 
 
 以上为整体汇总，请使用者创建Github仓库，并将仓库内容和链接完善在本导航页面
 
 如有任何问题请联系本人邮箱
 
-Write by J.Q.Wang【wjq_z@qq.com】
-
+Writed by： J.Q.Wang、李奇峰
 
 Datawhale： For the learner ，和学习者一起成长。坚持开源的模式，坚持不断的进取，改善这个世界是我们的梦想。
 ![](assets/markdown-img-paste-20190201171209870.png)
