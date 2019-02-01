@@ -33,7 +33,7 @@ Datawhale
 │&emsp;&emsp;│&emsp;&emsp;&emsp;&emsp;&emsp;└── [Paper解读与复现](添加对应仓库链接)<br>
 │&emsp;&emsp;└── 强化学习<br>
 │&emsp;&emsp;│&emsp;&emsp;└── 课程与书籍学习<br>
-│&emsp;&emsp;│&emsp;&emsp;&emsp;&emsp;└──  [伦敦大学 David Sliver《强化学习公开课》学习项目](添加对应仓库链接)    
+│&emsp;&emsp;│&emsp;&emsp;&emsp;&emsp;└──  [伦敦大学 David Sliver《强化学习公开课》学习项目](https://github.com/Datawhale18/UCL-DeepReinforcementLearning)    
 │&emsp;&emsp;│&emsp;&emsp;&emsp;&emsp;└──  [伯克利CS294《深度强化学习公开课》学习项目](添加对应仓库链接)<br>
 │&emsp;&emsp;│&emsp;&emsp;&emsp;&emsp;└── [DeepMind《深度强化学习公开课》学习项目](添加对应仓库链接)<br>
 │&emsp;&emsp;│&emsp;&emsp;└── 前沿论文解读与复现<br>
